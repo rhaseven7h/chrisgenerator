@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background-color: aliceblue;
+  margin: 1rem auto;
+}
+
+textarea#output {
+  width: 100%;
+  min-height: 32rem;
+  padding: 1rem;
+}
